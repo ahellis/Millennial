@@ -16,7 +16,7 @@ sass:
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title:		           "Crossroads"
 description:	       "A Burlington Literary Magazine"
-author:              "Alex Ellis"
+author:              "The Crossroads Editorial Team"
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:
