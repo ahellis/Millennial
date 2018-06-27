@@ -3,4 +3,8 @@ layout: misc
 title: About
 ---
 
-Millennial is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused publishing platform for your publication site or blog. You can find everything you need to get started under documentation. For more information on how to install and use this theme, check out [the documentation]({{ site.github.url }}{% post_url 2016-10-10-getting-started %}).
+Crossroads is a Burlington, VT based literary magazine run by University students without University association. The purpose of this magazine is to provide an independent, alternative outlet for Burlingtonians to share their creative works with the community. Crossroads is published monthly and distributed for free across the city and at the University of Vermont and Champlain College.
+
+This publication unapologetically maintains the equal right of free expression without regards to race, color, religion, sex, gender, national origin, age, disability, genetics, or any other metric of difference. 
+
+The whole is something besides the parts.
