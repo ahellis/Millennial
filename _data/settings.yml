@@ -7,7 +7,7 @@ google-ID: 'UA-112060364-2'
 
 menu:
 - {name: 'Submissions', folder: 'pages', file: 'submissions.html'}
-- {name: 'Issues', folder: 'pages', file: 'resources.html'}
+- {name: 'Issues', folder: 'pages', file: 'issues.html'}
 - {name: 'Writer Spotlight', folder: 'pages', file: 'sample-posts.html'}
 - {name: 'Partners', folder: 'pages', file: 'documentation.html'}
 - {name: 'About', folder: 'pages', file: 'about.html'}
