@@ -6,7 +6,7 @@ disqus:
 google-ID: 'UA-112060364-2'
 
 menu:
-- {name: 'Submissions', folder: 'pages', file: 'facts.html'}
+- {name: 'Submissions', folder: 'pages', file: 'submissions.html'}
 - {name: 'Issues', folder: 'pages', file: 'resources.html'}
 - {name: 'Writer Spotlight', folder: 'pages', file: 'sample-posts.html'}
 - {name: 'Partners', folder: 'pages', file: 'documentation.html'}
