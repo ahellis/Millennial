@@ -9,7 +9,7 @@ menu:
 - {name: 'Submissions', folder: 'pages', file: 'submissions.html'}
 - {name: 'Issues', folder: 'pages', file: 'issues.html'}
 - {name: 'Writer Spotlight', folder: 'pages', file: 'sample-posts.html'}
-- {name: 'Partners', folder: 'pages', file: 'documentation.html'}
+- {name: 'Partners', folder: 'pages', file: 'partners.html'}
 - {name: 'About', folder: 'pages', file: 'about.html'}
 - {name: 'Contact', folder: 'pages', file: 'contact.html'}
 
