@@ -2,7 +2,7 @@
 layout: post
 title: "Poetry Submission"
 author: "Alex Ellis"
-categories: Submissions
+categories: submissions
 tags: [documentation,sample]
 image: cuba-1.jpg
 ---
