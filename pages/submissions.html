@@ -2,10 +2,9 @@
 layout: page
 title: Submissions
 ---
-{% for post in site.categories.submissions %}
-  <a href="{{ site.github.url }}{{ post.url }}">
-    <div class="featured-posts" {% if post.image %}style="background-image:url({{ site.github.url }}/assets/img/{{ post.image }})"{% endif %}>
-      <h2><span>{{ post.title }}</span></h2>
-    </div>
-  </a>
-{% endfor %}
+<form accept-charset="UTF-8" action="https://formkeep.com/f/XXXXXXXXXXXX" method="POST">
+  <input type="email" name="email" placeholder="Your Email">
+  <input type="text" name="name" placeholder="Your Name">
+  <input type="hidden" name="utf8" value="✓">
+  <button type="submit">Submit</button>
+</form>
