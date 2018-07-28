@@ -15,8 +15,7 @@ menu:
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
-- {icon: 'twitter', link: 'https://twitter.com/paululele'}
-- {icon: 'facebook', link: 'https://www.facebook.com/Le.Paul.94'}
+- {icon: 'facebook', link: 'https://www.facebook.com/Crossroads-Magazine-1907290412725232/'}
 - {icon: 'instagram', link: 'https://instagram.com/crossroadsmag'}
 - {icon: 'envelope', link: 'mailto:crossroads.magazine.uvm@gmail.com'}
 - {icon: 'rss-square', link: 'feed.xml'}
