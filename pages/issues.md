@@ -11,7 +11,7 @@ All rights reserved. No portion of the following magazine issues may be reproduc
 
 For permissions contact: crossroadsmagazine.uvm@gmail.com
 
-##Index of Issues:
+<h1> Index of Issues: </h1>
 
 * <a href="../assets/copies/2018-3_Issue3.pdf" download="2018-3_Issue3.pdf">Issue #3 March, 2018</a>
 * <a href="../assets/copies/2018-8_Issue4.pdf" download="2018-8_Issue4.pdf">Issue #4 August, 2018</a>
