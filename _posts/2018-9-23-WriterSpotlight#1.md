@@ -2,7 +2,7 @@
 layout: post
 title: "Julian Foster"
 author: "Alex Ellis"
-categories: submissions
+categories: sample
 tags: [documentation,sample]
 image: crossroads.jpg
 ---
