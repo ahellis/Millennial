@@ -3,6 +3,15 @@ layout: misc
 title: Index of Crossroads Issues
 ---
 
+Below are .pdfs of the currently avaialble CR issues for private use only.
+
+© 2017-2019, Crossroads Magazine, Published independently at the University of Vermont's Print and Mail Center by Crossroads Editorial Staff, Burlington, VT 05401
+
+All rights reserved. No portion of the following magazine issues may be reproduced in any form without permission from the publisher, except as permitted by U.S. copyright law. 
+
+For permissions contact: crossroadsmagazine.uvm@gmail.com
+
+##Index of Issues:
 
 * <a href="../assets/copies/2018-3_Issue3.pdf" download="2018-3_Issue3.pdf">Issue #3 March, 2018</a>
 * <a href="../assets/copies/2018-8_Issue4.pdf" download="2018-8_Issue4.pdf">Issue #4 August, 2018</a>
