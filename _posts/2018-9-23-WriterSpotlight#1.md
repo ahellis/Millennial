@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Poetry Submission"
+title: "Julian Foster"
 author: "Alex Ellis"
 categories: submissions
 tags: [documentation,sample]
