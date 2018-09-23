@@ -1,9 +1,7 @@
 ---
 layout: misc
-title: Partners
+title: Partnerships
 ---
-# Crossroads is partnered with the following orgnanizations:
-
 * Alibi Hour (arts collective)
 * Lit Club at the Lampshop (bar & venue for poetry in downtown Burlington)
 
