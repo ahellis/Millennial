@@ -5,7 +5,7 @@ title: Index of Crossroads Issues
 
 Below are .pdfs of the currently avaialble CR issues for private use only.
 
-© 2017-2019, Crossroads Magazine, Published independently at the University of Vermont's Print and Mail Center by Crossroads Editorial Staff, Burlington, VT 05401
+© 2017-2019, Crossroads Magazine, published independently at the University of Vermont's Print and Mail Center by Crossroads Editorial Staff, Burlington, VT 05401
 
 All rights reserved. No portion of the following magazine issues may be reproduced in any form without permission from the publisher, except as permitted by U.S. copyright law. 
 
