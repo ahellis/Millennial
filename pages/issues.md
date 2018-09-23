@@ -1,6 +1,6 @@
 ---
 layout: misc
-title: Crossroads Issues
+title: Please Read Before Downloading
 ---
 
 Below are .pdfs of the currently avaialble CR issues for private use only.
