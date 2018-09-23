@@ -13,7 +13,7 @@ For permissions contact: crossroadsmagazine.uvm@gmail.com
 
 <h1> Index of Issues: </h1>
 
-* <a href="../assets/copies/2017-11_Issue1.pdf" download="2017-11_Issue1.pdf">Issue #1 November, 2018</a>
+* <a href="../assets/copies/2017-11_Issue1.pdf" download="2017-11_Issue1.pdf">Issue #1 November, 2017</a>
 * <a href="../assets/copies/2018-1_Issue2.pdf" download="2018-1_Issue2.pdf">Issue #2 January, 2018</a>
 * <a href="../assets/copies/2018-3_Issue3.pdf" download="2018-3_Issue3.pdf">Issue #3 March, 2018</a>
 * <a href="../assets/copies/2018-8_Issue4.pdf" download="2018-8_Issue4.pdf">Issue #4 August, 2018</a>
