@@ -1,6 +1,6 @@
 ---
 layout: misc
-title: Please Read Before Downloading
+title: Legal Disclaimer
 ---
 
 Below are .pdfs of the currently avaialble CR issues for private use only.
