@@ -1,6 +1,6 @@
 ---
 layout: misc
-title: Index of Crossroads Issues
+title: Crossroads Issues
 ---
 
 Below are .pdfs of the currently avaialble CR issues for private use only.
